@@ -3,6 +3,10 @@
 A fun **two-player Tic Tac Toe** game using **unique emojis** instead of X and O, built with **HTML, CSS (Tailwind), and JavaScript**.  
 
 ---
+## 🚀 Live Demo
+
+Try the game online: [Play Tic Tac Toe ❤️🧠](https://adhiinsvy13.github.io/Tic-tac-toe/)
+
 
 ## ✨ Features
 
