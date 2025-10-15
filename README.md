@@ -1,4 +1,34 @@
-A Tic Tac Toe game for two players, that uses unique emojis instead of traditional X and O, with a visually appealing UI and responsive design.
-The motive behind this was to polish my frontend skills, and understand game logic implementation using HTML, CSS, and JavaScript.
+# 🎮 Tic Tac Toe — Emoji Edition
 
-🚀 The project is open to contributions 🚀
+A fun **two-player Tic Tac Toe** game using **unique emojis** instead of X and O, built with **HTML, CSS (Tailwind), and JavaScript**.  
+
+---
+
+## ✨ Features
+
+- Two-player gameplay 🧑‍🤝‍🧑  
+- Emoji symbols: ❤️ (heart) vs 🧠 (brain)  
+- Smooth animations & responsive design 📱  
+- Reset / Play Again button 🔁  
+
+---
+
+## Motivation
+
+To **polish frontend skills** and practice **game logic implementation** using web technologies.
+
+---
+
+## 💖 Contributions
+
+The project is **open to contributions**:  
+- Add new emoji sets  
+- Improve UI/UX or animations  
+- Refactor code for better readability  
+
+---
+
+## 📸 Preview
+
+Player ❤️ vs Player 🧠  
+![Tic Tac Toe Preview](Preview.png)
